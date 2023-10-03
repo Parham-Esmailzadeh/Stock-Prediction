@@ -8,10 +8,10 @@ CACHE_DIR = ".cache"
 ad.user_cache_dir = lambda *args: CACHE_DIR
 
 
-import yfinance as yf
-from prophet.plot import plot_plotly
 from prophet import Prophet
+from prophet.plot import plot_plotly
 from plotly import graph_objs as go
+import yfinance as yf
 
 
 START = "2018-01-01"
