@@ -1,5 +1,5 @@
-yfinance==0.2.30
 appdirs==1.4.4
 plotly==5.17.0
 prophet==1.1.4
 streamlit==1.27.1
+yfinance==0.2.30
